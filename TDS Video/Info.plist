@@ -9,7 +9,7 @@
 			<string>Editor</string>
 			<key>CFBundleURLSchemes</key>
 			<array>
-				<string>TDSVideo</string>
+				<string>TDSNav</string>
 			</array>
 		</dict>
 		<dict>
@@ -17,7 +17,7 @@
 			<string>Editor</string>
 			<key>CFBundleURLSchemes</key>
 			<array>
-				<string>TDSVIDEOPAYMENT</string>
+				<string>TDSNAVPAYMENT</string>
 			</array>
 		</dict>
 	</array>
@@ -26,7 +26,7 @@
 		<string>INSendMessageIntent</string>
 	</array>
 	<key>RPBroadcastBundleID</key>
-	<string>net.thomasdye.TDS-Video3.ScreenRec</string>
+	<string>TDSNav.BroadcastUpload</string>
 	<key>UIApplicationSceneManifest</key>
 	<dict>
 		<key>UIApplicationSupportsMultipleScenes</key>
